@@ -1,0 +1,48 @@
+[
+  {
+    "name": "ООО Ромашка",
+    "address": "Москва, улица Пушкина, дом Колотушкина",
+    "phoneNumber": "88005553535",
+    "inn": "100500",
+    "ogrn": "2000600",
+    "foundationDate": "1998-07-15",
+    "securities": [
+      {
+        "id": 111,
+        "codeOfSecurity": 777,
+        "currency": "USD",
+        "expirationDate": "1999-07-25"
+      },
+      {
+        "id": 112,
+        "codeOfSecurity": 77897,
+        "currency": "RUB",
+        "expirationDate": "1991-07-18"
+      }
+    ]
+  },
+  {
+    "name": "ООО Одуванчик Экстра",
+    "address": "Ленинград, улица Колотушкина, дом 33",
+    "phoneNumber": "88002000600",
+    "inn": "10050073474737",
+    "ogrn": "20006007773497",
+    "foundationDate": "2007-09-05",
+    "securities": [
+      {
+        "id": 111,
+        "codeOfSecurity": 444,
+        "currency": "USD",
+        "expirationDate": "1999-07-25"
+      },
+      {
+        "id": 112,
+        "codeOfSecurity": 333,
+        "currency": "USD",
+        "expirationDate": "1999-07-25"
+      }
+    ]
+  }
+]
+
+
